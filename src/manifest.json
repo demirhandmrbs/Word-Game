@@ -1,0 +1,22 @@
+{
+  "bundles": [
+    {
+      "name": "game",
+      "assets": [
+        { "name": "logo",    "srcs": "assets/core/logo_white.png" },
+        { "name": "bg",      "srcs": "assets/bg.png" },
+        { "name": "circle",  "srcs": "assets/circle.png" },
+        { "name": "rect",    "srcs": "assets/rect.png" },
+        { "name": "hand",    "srcs": "assets/hand.png" },
+        { "name": "shuffle", "srcs": "assets/suffle.png" },
+        { "name": "install", "srcs": "assets/install0.png" }
+      ]
+    },
+    {
+      "name": "fonts",
+      "assets": [
+        { "name": "font", "srcs": "assets/Sniglet-Regular.ttf" }
+      ]
+    }
+  ]
+}
